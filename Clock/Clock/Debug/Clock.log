@@ -1,0 +1,3 @@
+﻿  Clock.cpp
+C:\Users\minun\source\repos\Clock\Clock\Clock.cpp(23,12): error C3861: 'addOneMinute': identifier not found
+C:\Users\minun\source\repos\Clock\Clock\Clock.cpp(35,12): error C3861: 'addOneHour': identifier not found
